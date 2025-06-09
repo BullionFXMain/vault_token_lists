@@ -1,0 +1,40 @@
+{
+  "name": "Alchemy Token List",
+  "logoURI": "https://vault_token_lists/src/images/alchemyVault.svg",
+  "keywords": [],
+  "timestamp": "2025-06-09T13:36:00.000Z",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xC2F25646323F4F1e03cdDf03b886Ad4E5043F214",
+      "name": "100% Backed Physical Gold",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "logoURI": "https://vault_token_lists/src/images/gold.svg"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x41d393ae236d08155301529a33B15DE4504696c7",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://vault_token_lists/src/images/usdc.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fE3dAc4d8Bc19Be6C875bE27d56aAAD35DEeD09",
+      "name": "100% Backed Physical Gold",
+      "symbol": "tGOLD",
+      "decimals": 18,
+      "logoURI": "https://vault_token_lists/src/images/gold.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x604Ea06ddFf8051E9c5D92f08477008aaAD0fba3",
+      "name": "100% Backed Physical Gold",
+      "symbol": "tUSDC",
+      "decimals": 6,
+      "logoURI": "https://vault_token_lists/src/images/usdc.svg"
+    }
+  ]
+}
