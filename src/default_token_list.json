@@ -1,6 +1,6 @@
 {
   "name": "Alchemy Token List",
-  "logoURI": "/src/images/alchemyVault.svg",
+  "logoURI": "https://raw.githubusercontent.com/BullionFXMain/vault_token_lists/master/src/images/alchemyVault.svg",
   "keywords": [],
   "timestamp": "2025-06-09T13:36:00.000Z",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "100% Backed Physical Gold",
       "symbol": "GOLD",
       "decimals": 18,
-      "logoURI": "/src/images/gold.svg"
+      "logoURI": "https://raw.githubusercontent.com/BullionFXMain/vault_token_lists/master/src/images/gold.svg"
     },
     {
       "chainId": 11155111,
@@ -18,7 +18,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "/src/images/usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/BullionFXMain/vault_token_lists/master/src/images/usdc.svg"
     },
     {
       "chainId": 1,
@@ -26,7 +26,7 @@
       "name": "100% Backed Physical Gold",
       "symbol": "tGOLD",
       "decimals": 18,
-      "logoURI": "/src/images/gold.svg"
+      "logoURI": "https://raw.githubusercontent.com/BullionFXMain/vault_token_lists/master/src/images/gold.svg"
     },
     {
       "chainId": 1,
@@ -34,7 +34,7 @@
       "name": "100% Backed Physical Gold",
       "symbol": "tUSDC",
       "decimals": 6,
-      "logoURI": "/src/images/usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/BullionFXMain/vault_token_lists/master/src/images/usdc.svg"
     }
   ]
 }
