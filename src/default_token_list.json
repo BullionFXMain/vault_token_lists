@@ -3,6 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/BullionFXMain/vault_token_lists/master/src/images/alchemyVault.svg",
   "keywords": [],
   "timestamp": "2025-06-09T13:36:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
       "chainId": 11155111,
